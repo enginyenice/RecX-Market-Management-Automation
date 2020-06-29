@@ -1,0 +1,84 @@
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe.config
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.pdb
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Home.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Login.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Properties.Resources.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csproj.GenerateResource.Cache
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.exe
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.pdb
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Menu.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Sbilgi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Cari_firmagir.resources
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe.config
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.pdb
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csprojResolveAssemblyReference.cache
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Cari_firmagir.resources
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Home.resources
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Login.resources
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Menu.resources
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Properties.Resources.resources
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Sbilgi.resources
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csproj.GenerateResource.Cache
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csproj.CoreCompileInputs.cache
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.exe
+D:\ÖDEVLER\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.pdb
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.musterilistesi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendeurungiris.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendesatissecimi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendesatisgirisi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.perakendesatismusteri.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.yonetimhesap.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapolustur.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapyetkilendir.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapsil.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe.config
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.pdb
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Cari_firmagir.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapolustur.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapsil.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapyetkilendir.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.perakendesatismusteri.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendesatissecimi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Home.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Login.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Menu.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.musterilistesi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendeurungiris.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Properties.Resources.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Sbilgi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendesatisgirisi.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.yonetimhesap.resources
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csproj.GenerateResource.Cache
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.exe
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.pdb
+D:\Programlar\OneDrive\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Kategoriislem.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe.config
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.exe
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.pdb
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.exe
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\bin\Debug\RecX Market Otomasyonu.pdb
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Cari_firmagir.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapolustur.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapsil.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.hesapyetkilendir.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Kategoriislem.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.perakendesatismusteri.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendesatissecimi.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Home.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Login.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Menu.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.musterilistesi.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendeurungiris.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Properties.Resources.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Sbilgi.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.Perakendesatisgirisi.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX_Market_Otomasyonu.yonetimhesap.resources
+C:\Users\BILGISAYAR\Desktop\RecX Kurulum İşlemleri\RecX Market Otomasyonuu\RecX Market Otomasyonu\RecX Market Otomasyonu\obj\Debug\RecX Market Otomasyonu.csproj.GenerateResource.Cache
