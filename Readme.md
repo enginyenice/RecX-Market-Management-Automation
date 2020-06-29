@@ -1,4 +1,5 @@
-** TAM Rapor İçin Tıklayınız**
+** [Tam Rapor](https://github.com/nginY26/RecX-Market-Otomasyonu/blob/master/Rapor.pdf "Tam Rapor") **
+
 ## KOCAELİ ÜNİVERSİTESİ
 ###  KOCAELİ MESLEK YÜKSEKOKULU
 ###  BİLGİSAYAR TEKLONOJİLERİ BÖLÜMÜ
