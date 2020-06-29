@@ -1,4 +1,4 @@
-** [Tam Rapor](https://github.com/nginY26/RecX-Market-Otomasyonu/blob/master/Rapor.pdf "Tam Rapor") **
+[Tam Rapor](https://github.com/nginY26/RecX-Market-Otomasyonu/blob/master/Rapor.pdf "Projenin detaylı anlatımı için tıklayınız.")
 
 ## KOCAELİ ÜNİVERSİTESİ
 ###  KOCAELİ MESLEK YÜKSEKOKULU
@@ -146,15 +146,6 @@ gerektirmeden, ekran üzerindeki nesneler ve simgeler yardımıyla, fare desteğ
 
 yararlanarak kullanıcının çalışmasına olanak verir.
 
-KAYNAKLAR
-ACCESS&SQL: http://www.access-sql.com/
-Ahmet Can Sever: http://www.ahmetcansever.com/programlama/c-access-veri-
-tabani-baglantisi-select-insert-update-delete-ornek-uygulama/
-
-Hikmet Okutmuş: http://www.hikmetokumus.com/makale/11/datagridview%27-da-
-bulunan-satirlari-yazdirmak
-
-Microsoft Social : https://social.msdn.microsoft.com
 
 ÖZGEÇMİŞ
 1998 yılında Eskişehir’de doğdu. İlkokulu ve ortaokulu Eskişehir’in Mahmudiye
@@ -164,6 +155,3 @@ ilçesinde Necatibey İlköğretim Okulun’da tamamladı. Liseyi Eskişehir’d
 İsmail Tetik Anadolu Lisesinde tamamladı. 2016 yılında Kocaeli Üniversitesi
 
 Bilgisayar Programcılığı bölümüne başladı ve okumaya devam etmektedir.
-
-This is a offline tool, your data stays locally and is not send to any server!
-Feedback & Bug Reports
